@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_job_indicators">
+    <pa_job_indicators action="DELETE">
+        <active>true</active>
+        <collect>2</collect>
+        <collect_indicator>true</collect_indicator>
+        <display>temporary job for collecting Requested for - NeedIt: Active Weekly</display>
+        <indicator display_value="NeedIt: Active Weekly">99d7ad66079260106fb0fd1e7c1ed09c</indicator>
+        <job display_value="temporary job for collecting Requested for">e3ed6966079260106fb0fd1e7c1ed01f</job>
+        <sys_class_name>pa_job_indicators</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-16 02:07:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6bed6966079260106fb0fd1e7c1ed01f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt: Active Weekly.temporary job for collecting Requested for</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Shopping List" source="x_561640_shopping">67beff12079e20106fb0fd1e7c1ed0b7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">67beff12079e20106fb0fd1e7c1ed0b7</sys_scope>
+        <sys_update_name>pa_job_indicators_6bed6966079260106fb0fd1e7c1ed01f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-16 02:07:09</sys_updated_on>
+    </pa_job_indicators>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Shopping List">67beff12079e20106fb0fd1e7c1ed0b7</application>
+        <file_path/>
+        <instance_id>cd18758cdb461f40439ef70fbf96193c</instance_id>
+        <instance_name>dev58701</instance_name>
+        <name>pa_job_indicators_6bed6966079260106fb0fd1e7c1ed01f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_job_indicators"><pa_job_indicators action="INSERT_OR_UPDATE"><active>true</active><collect>2</collect><collect_indicator>true</collect_indicator><display>temporary job for collecting Requested for - NeedIt: Active Weekly</display><indicator display_value="NeedIt: Active Weekly">99d7ad66079260106fb0fd1e7c1ed09c</indicator><job display_value="temporary job for collecting Requested for">e3ed6966079260106fb0fd1e7c1ed01f</job><sys_class_name>pa_job_indicators</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-02-16 02:07:09</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6bed6966079260106fb0fd1e7c1ed01f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>NeedIt: Active Weekly.temporary job for collecting Requested for</sys_name><sys_overrides/><sys_package display_value="Shopping List" source="x_561640_shopping">67beff12079e20106fb0fd1e7c1ed0b7</sys_package><sys_policy/><sys_scope display_value="Shopping List">67beff12079e20106fb0fd1e7c1ed0b7</sys_scope><sys_update_name>pa_job_indicators_6bed6966079260106fb0fd1e7c1ed01f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-02-16 02:07:09</sys_updated_on></pa_job_indicators></record_update>]]></payload>
+        <payload_hash>272703923</payload_hash>
+        <record_name>temporary job for collecting Requested for - NeedIt: Active Weekly</record_name>
+        <reverted_from/>
+        <source>efbeff12079e20106fb0fd1e7c1ed0b8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-16 02:07:09</sys_created_on>
+        <sys_id>73ed6966079260106fb0fd1e7c1ed024</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>177a897621e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-16 02:07:09</sys_updated_on>
+        <type>Job Indicator</type>
+        <update_guid>bbed69665a9260103c4aa65fb34fb723</update_guid>
+        <update_guid_history>bbed69665a9260103c4aa65fb34fb723:272703923</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="temporary job for collecting Requested for - ">eb9939da072220106fb0fd1e7c1ed0fb</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-27 18:35:25</sys_created_on>
+        <sys_db_object display_value="" name="pa_job_indicators">pa_job_indicators</sys_db_object>
+        <sys_id>4ceb72d1db534fa1ae79b8d463875789</sys_id>
+        <sys_metadata>6bed6966079260106fb0fd1e7c1ed01f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt: Active Weekly.temporary job for collecting Requested for</sys_name>
+        <sys_package display_value="Shopping List" source="x_561640_shopping">67beff12079e20106fb0fd1e7c1ed0b7</sys_package>
+        <sys_parent display_value="temporary job for collecting Requested for">e3ed6966079260106fb0fd1e7c1ed01f</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">67beff12079e20106fb0fd1e7c1ed0b7</sys_scope>
+        <sys_scope_delete display_value="">0510e3113c5a4680894a66860fb82900</sys_scope_delete>
+        <sys_update_name>pa_job_indicators_6bed6966079260106fb0fd1e7c1ed01f</sys_update_name>
+        <sys_update_version display_value="pa_job_indicators_6bed6966079260106fb0fd1e7c1ed01f">73ed6966079260106fb0fd1e7c1ed024</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-27 18:35:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

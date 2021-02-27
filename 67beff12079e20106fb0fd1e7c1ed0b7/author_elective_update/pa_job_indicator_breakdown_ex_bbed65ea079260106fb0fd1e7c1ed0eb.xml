@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_job_indicator_breakdown_ex">
+    <pa_job_indicator_breakdown_ex action="DELETE">
+        <breakdown display_value="NeedIt Request Type">032d65a6079260106fb0fd1e7c1ed0dd</breakdown>
+        <job_indicator display_value="temporary job for collecting Requested for - NeedIt: Due Monthly">3bed6966079260106fb0fd1e7c1ed024</job_indicator>
+        <sys_class_name>pa_job_indicator_breakdown_ex</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-16 02:07:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>bbed65ea079260106fb0fd1e7c1ed0eb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Request Type.temporary job for collecting Requested for - NeedIt: Due Monthly</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Shopping List" source="x_561640_shopping">67beff12079e20106fb0fd1e7c1ed0b7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">67beff12079e20106fb0fd1e7c1ed0b7</sys_scope>
+        <sys_update_name>pa_job_indicator_breakdown_ex_bbed65ea079260106fb0fd1e7c1ed0eb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-16 02:07:09</sys_updated_on>
+    </pa_job_indicator_breakdown_ex>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Shopping List">67beff12079e20106fb0fd1e7c1ed0b7</application>
+        <file_path/>
+        <instance_id>cd18758cdb461f40439ef70fbf96193c</instance_id>
+        <instance_name>dev58701</instance_name>
+        <name>pa_job_indicator_breakdown_ex_bbed65ea079260106fb0fd1e7c1ed0eb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_job_indicator_breakdown_ex"><pa_job_indicator_breakdown_ex action="INSERT_OR_UPDATE"><breakdown display_value="NeedIt Request Type">032d65a6079260106fb0fd1e7c1ed0dd</breakdown><job_indicator display_value="temporary job for collecting Requested for - NeedIt: Due Monthly">3bed6966079260106fb0fd1e7c1ed024</job_indicator><sys_class_name>pa_job_indicator_breakdown_ex</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-02-16 02:07:09</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>bbed65ea079260106fb0fd1e7c1ed0eb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>NeedIt Request Type.temporary job for collecting Requested for - NeedIt: Due Monthly</sys_name><sys_overrides/><sys_package display_value="Shopping List" source="x_561640_shopping">67beff12079e20106fb0fd1e7c1ed0b7</sys_package><sys_policy/><sys_scope display_value="Shopping List">67beff12079e20106fb0fd1e7c1ed0b7</sys_scope><sys_update_name>pa_job_indicator_breakdown_ex_bbed65ea079260106fb0fd1e7c1ed0eb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-02-16 02:07:09</sys_updated_on></pa_job_indicator_breakdown_ex></record_update>]]></payload>
+        <payload_hash>500791651</payload_hash>
+        <record_name>3bed6966079260106fb0fd1e7c1ed024</record_name>
+        <reverted_from/>
+        <source>efbeff12079e20106fb0fd1e7c1ed0b8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-16 02:07:09</sys_created_on>
+        <sys_id>33ed65ea079260106fb0fd1e7c1ed0ed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>177a897635a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-16 02:07:09</sys_updated_on>
+        <type>Job Indicator Breakdown exclusions</type>
+        <update_guid>7bed65ea64926010dfc9b97b3563c2ec</update_guid>
+        <update_guid_history>7bed65ea64926010dfc9b97b3563c2ec:500791651</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">b6a9b9da072220106fb0fd1e7c1ed08a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-27 18:35:39</sys_created_on>
+        <sys_db_object display_value="" name="pa_job_indicator_breakdown_ex">pa_job_indicator_breakdown_ex</sys_db_object>
+        <sys_id>5cd7ae7c317f48708007c2c41c048640</sys_id>
+        <sys_metadata>bbed65ea079260106fb0fd1e7c1ed0eb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Request Type.temporary job for collecting Requested for - NeedIt: Due Monthly</sys_name>
+        <sys_package display_value="Shopping List" source="x_561640_shopping">67beff12079e20106fb0fd1e7c1ed0b7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">67beff12079e20106fb0fd1e7c1ed0b7</sys_scope>
+        <sys_scope_delete display_value="">0510e3113c5a4680894a66860fb82900</sys_scope_delete>
+        <sys_update_name>pa_job_indicator_breakdown_ex_bbed65ea079260106fb0fd1e7c1ed0eb</sys_update_name>
+        <sys_update_version display_value="pa_job_indicator_breakdown_ex_bbed65ea079260106fb0fd1e7c1ed0eb">33ed65ea079260106fb0fd1e7c1ed0ed</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-27 18:35:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
